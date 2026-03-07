@@ -14,7 +14,7 @@ The workflow reduces manual processing and improves communication between employ
 
 ## Workflow Diagram
 
-![Workflow](AutomaticLeaveRequestDiagram.png)
+![Workflow](images/Workflow-Diagram.png)
 
 ---
 
