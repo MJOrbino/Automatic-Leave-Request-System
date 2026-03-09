@@ -18,6 +18,12 @@ The workflow reduces manual processing and improves communication between employ
 
 ---
 
+## Power Automate Workflow Diagram
+
+![Diagram](images/PowerAutomateWorkflow.png)
+
+---
+
 ## How the System Works
 
 1. Employee submits leave request via SharePoint.
