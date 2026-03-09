@@ -25,7 +25,8 @@ A. Old Design
 ![Diagram](images/Leave-Request-PA-Flow-1.png)
 
 B. New Design
-![Diagram](images/LeaveRequestPAFlow2.png)
+
+![Diagram](images/Leave-Request-PA-Flow-2.png)
 
 ---
 
