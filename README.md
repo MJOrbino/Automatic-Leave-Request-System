@@ -63,6 +63,15 @@ B. New Design
 
 ---
 
+## Import Instructions
+1. Download `Flows/LeaveRequest.zip`.
+2. Go to Power Automate → My Flows → Import
+3. Reconfigure SharePoint and Outlook connections
+4. Map resources to your environment
+
+
+---
+
 ## Business Impact
 
 This automation improves efficiency by:
