@@ -20,7 +20,12 @@ The workflow reduces manual processing and improves communication between employ
 
 ## Power Automate Workflow Diagram
 
-![Diagram](images/PowerAutomateWorkflow.png)
+A. Old Design
+
+![Diagram](images/LeaveRequestPAFlow1.png)
+
+B. New Design
+![Diagram](images/LeaveRequestPAFlow2.png)
 
 ---
 
