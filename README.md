@@ -22,7 +22,7 @@ The workflow reduces manual processing and improves communication between employ
 
 A. Old Design
 
-![Diagram](images/LeaveRequestPAFlow1.png)
+![Diagram](images/Leave-Request-PA-Flow-1.png)
 
 B. New Design
 ![Diagram](images/LeaveRequestPAFlow2.png)
