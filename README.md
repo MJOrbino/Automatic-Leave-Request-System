@@ -30,6 +30,12 @@ B. New Design
 
 ---
 
+## Actual Leave Application Process
+
+![LeaveProcess](images/Actual-Leave-Application-Process.png)
+
+---
+
 ## How the System Works
 
 1. Employee submits leave request via SharePoint.
