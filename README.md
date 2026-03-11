@@ -49,7 +49,13 @@ B. New Design
    - Employee receives rejection email notification.
 
 ---
+## Power Automate Flow
 
+A. Initial Flow
+
+![Automate](images/Power-Automate-Flow1.png)
+
+---
 ## Technologies Used
 
 - Power Automate
