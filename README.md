@@ -53,7 +53,7 @@ B. New Design
 
 A. Initial Flow
 
-![Automate](images/Power-Automate-Flow1.png)
+![Automate](images/Power-Automate-FlowA.png)
 
 ---
 ## Technologies Used
