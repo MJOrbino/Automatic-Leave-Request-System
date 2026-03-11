@@ -51,9 +51,21 @@ B. New Design
 ---
 ## Power Automate Flow
 
-A. Initial Flow
+<b> A. Initial Flow </b>
 
 ![Automate](images/Power-Automate-FlowA.png)
+
+<b> B-1. Conditional Flow (Approved) </b>
+
+![Automate](images/Power-Automate-FlowB1CA.png)
+
+<b> B-2. Conditional Flow (Rejected) </b>
+
+![Automate](images/Power-Automate-FlowB1CR.png)
+
+<b> C. Tracking Information </b>
+
+![Automate](images/Power-Automate-FlowB2.png)
 
 ---
 ## Technologies Used
